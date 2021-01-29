@@ -1,4 +1,4 @@
-# PHP_CRUD_Operation
+# PHP_CRUD
 
 To Execute this application just start the Xampp web server.
 Execute index.php file in the browser at locahost.
