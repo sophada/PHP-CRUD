@@ -1,4 +1,3 @@
 # PHP_CRUD
 
-To Execute this project, just start the Xampp web server.
-Execute index.php file in the browser at locahost.
+To run this project, need  to start the Xampp web server or any web server.
